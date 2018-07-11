@@ -1,0 +1,6 @@
+framework module Pods_DynamicLoadDemo {
+  umbrella header "Pods-DynamicLoadDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
