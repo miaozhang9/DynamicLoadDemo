@@ -1,0 +1,6 @@
+framework module QHLoanlib {
+  umbrella header "QHLoanlib.h"
+
+  export *
+  module * { export * }
+}
